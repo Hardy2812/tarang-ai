@@ -1,0 +1,13 @@
+client_id,client_name,annual_contract_value_inr,primary_contact,account_health,last_qbr_date,open_opportunities_inr
+C001,Annam Foods,12000000,Sushma,Critical,2026-10-15,0
+C002,Scheduling Demo Prospect (Synthetic),4000000,Client Sponsor,Medium,2026-10-25,6000000
+C003,Renewal Account (Synthetic),7000000,Commercial Lead,High,2026-10-30,0
+C004,Kabir's Toy Brand (Synthetic),500000,Kabir,High,2026-10-01,0
+C005,Recurring Order-Update Client (Synthetic),5500000,Operations Lead,High,2026-09-12,0
+C006,Orbit Electronics,9000000,Orbit Account Lead,High,2026-10-02,0
+C007,Northstar Retail,8500000,Meera,Medium,2026-10-21,1200000
+C008,Evergreen Pharma,11000000,Vikram,Low,2026-10-18,2500000
+C009,Mitti Homeware,7200000,Kavya,Medium,2026-10-12,1000000
+C010,Crestline Auto,7800000,Arjun,Low,2026-09-30,800000
+C011,Sunfield Textiles,5400000,Nisha,Medium,2026-10-08,0
+C012,Westbridge Services,6000000,Farah,Low,2026-10-11,500000
