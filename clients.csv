@@ -1,0 +1,13 @@
+client_id,client_name,annual_contract_value_inr,industry,primary_contact,account_health
+C001,Annam Foods,12000000,Food & Agriculture,Sushma,Critical
+C002,Scheduling Demo Prospect (Synthetic),4000000,Business Services,Client Sponsor,Medium
+C003,Renewal Account (Synthetic),7000000,Retail,Commercial Lead,High
+C004,Kabir's Toy Brand (Synthetic),500000,Consumer Goods,Kabir,High
+C005,Recurring Order-Update Client (Synthetic),5500000,Technology,Operations Lead,High
+C006,Orbit Electronics,9000000,Electronics,Orbit Account Lead,High
+C007,Northstar Retail,8500000,Retail,Meera,Medium
+C008,Evergreen Pharma,11000000,Healthcare,Vikram,Low
+C009,Mitti Homeware,7200000,Consumer Goods,Kavya,Medium
+C010,Crestline Auto,7800000,Automotive,Arjun,Low
+C011,Sunfield Textiles,5400000,Manufacturing,Nisha,Medium
+C012,Westbridge Services,6000000,Business Services,Farah,Low

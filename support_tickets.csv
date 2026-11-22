@@ -1,0 +1,5 @@
+record_id,timestamp,client_id,client_name,raw_text,stated_severity,status,age_days,issue_category
+E005,2026-11-23 09:20,C005,Recurring Order-Update Client (Synthetic),Automatic order updates are missing again. This is the third occurrence this quarter; prior fixes were server restarts.,high,open,21,order update integration failure
+E007,2026-11-23 09:25,C007,Northstar Retail,"The inventory sync was delayed twice this week, but the team has a manual workaround.",medium,monitoring,4,inventory sync delay
+E009,2026-11-23 09:31,C011,Sunfield Textiles,Users cannot see the latest order status for some orders. We have reported similar issues previously.,high,open,7,order status visibility
+T012,2026-11-23 09:40,C012,Westbridge Services,A user is unable to export a report. It is not blocking today's operations.,low,open,1,report export issue
